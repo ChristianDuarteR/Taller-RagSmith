@@ -44,7 +44,7 @@ Para ejecutar este proyecto, necesitarás tener instalado:
 
 1. Abre el proyecto con tu IDE favorito o navega hasta el directorio del proyecto.
 2. Ejecute todos los comandos del archivo jupyter Notebook (Asegurese de tener un ambiente virtual instalado previamente)
-![image](![image](https://github.com/user-attachments/assets/969cedb0-4365-464c-9cad-ee29349e55eb))
+![image](https://github.com/user-attachments/assets/969cedb0-4365-464c-9cad-ee29349e55eb)
 
 4. Desde la terminal, ejectuta los dos archivos de python
      ```bash
